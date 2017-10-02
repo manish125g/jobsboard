@@ -1,0 +1,294 @@
+@font-face {
+    font-family: "Trebuchet MS";
+    src: url("../fonts/Trebuchet MS.ttf");
+}
+html, body {
+    /*font-family: 'lucida grande', verdana, helvetica, arial, sans-serif;*/
+    font-family: "Trebuchet MS" !important;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 30px;
+    background: #F4F4F4;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.dropdown-menu {
+    left: -14px;
+}
+
+@media (min-width: 768px) {
+    .dropdown-menu {
+        left: -17px;
+    }
+
+    .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+        color: #09c !important;
+        font-weight: bold;
+        font-size: 36px;
+    }
+
+    .navbar-nav > li {
+        float: left;
+    }
+
+    .navbar-nav > li > a:hover {
+        background: #f5f5f5 !important;
+        color: #09c !important
+    }
+
+    .navbar-nav > li > a {
+        padding-top: 35px;
+    }
+
+    .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+        color: #09c !important;
+    }
+
+    .container-fluid {
+        /*padding-right: 170px !important;
+        padding-left: 170px !important;*/
+        min-height: 89px;
+    }
+
+    .navbar .navbar-header {
+        color: blue;
+        min-height: 89px !important;
+    }
+
+    .navbar-header {
+        /*padding-top: 20px !important;*/
+    }
+
+    .navbar-default .navbar-nav > li > a {
+        min-height: 60px !important;
+    }
+    .navbar-brand h1{
+        margin-top:13px !important;
+    }
+}
+.navbar-brand h1{
+    margin-top:-6px !important;
+}
+.title_style {
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    background: skyblue;
+    color: white;
+    padding: 10px 5px 2px 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+ul.navbar-nav > li >a:hover{
+border-bottom: 3px skyblue solid ;
+}
+.sb-page {
+    height: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+.navbar-toggle{
+    background-color: skyblue !important;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+    font-size: xx-large;
+    color: #ffffff;
+    background: skyblue;
+}
+
+.ads-tag {
+    padding: 5px;
+    position: relative;
+    top: 25px;
+    left: -2px;
+    background: forestgreen;
+    color: #ffffff;
+}
+li.category_i_li span{
+    font-size: 23px;
+}
+
+.sb-navbar {
+    background: cyan;
+}
+
+.navbar-default {
+    background-color: #ffffff;
+    border-color: #e7e7e7;
+    border-top: 3px solid skyblue;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: black;
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: #09c !important;
+    background-color : transparent;
+}
+
+a:hover {
+    color: #09c !important
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.modal-footer {
+    border-top: none !important;
+}
+
+.modal-header {
+    border-bottom: none !important;
+}
+
+.modal-header .close {
+    float: right !important;
+    margin-right: -30px !important;
+    margin-top: -30px !important;
+    background-color: #ff4c4c !important;
+    border-radius: 15px !important;
+    width: 30px !important;
+    height: 30px !important;
+    opacity: 1 !important;
+}
+
+/*.navbar-default ul >li{
+    padding: 12px 0 0 0;
+}
+.navbar-default .navbar-nav>li>a{
+	border-right: 2px solid blue;
+    font-weight: bold;
+}
+.navbar-nav>li>a{
+	padding-top: 0px;
+    padding-bottom: 0px;
+}*/
+
+header,
+section,
+aside,
+footer {
+    /*  margin: 0 1.5% 24px 1.5%; */
+}
+
+section {
+    float: left;
+    width: 100%;
+}
+
+aside {
+    float: right;
+    width: 30%;
+}
+
+code {
+    background: #2db34a;
+    border-radius: 6px;
+    color: #fff;
+    display: block;
+    font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+    padding: 24px 15px;
+    text-align: center;
+}
+
+.wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+.left-wrapper {
+    float: left;
+    width: 80%;
+}
+
+.ads-and-news-section {
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.upcoming-events {
+    height: 100px;
+    background: #fff;
+    text-align: center;
+}
+
+.right-wrapper {
+    float: left;
+    width: calc(20% - 20px);
+    height: 320px;
+    background: cyan;
+    margin-left: 20px;
+}
+
+.sb-page .paid-ads {
+    width: 20%;
+    float: left;
+    background: #fff;
+    height: 100%;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.sb-page .hot {
+    width: calc(80% - 20px);
+    float: right;
+    text-align: center;
+    height: 100%;
+}
+
+.sb-page .hot .hot-news {
+    height: calc(50% - 20px);
+    background: #fff;
+    margin-bottom: 20px;
+}
+
+.sb-page .hot .hot-jobs {
+    height: 50%;
+    background: #fff;
+}
+
+.hot-news,
+.hot .hot-jobs,
+.upcoming-events {
+    border-radius: 10px;
+}
+
+.paid-ads .quik-link, .hot {
+    height: 200px;
+}
+
+.paid-ads-sliding {
+    height: 100px;
+    /*background: cyan;*/
+    margin-top: 20px;
+}
+
+.market-place {
+    border-radius: 10px;
+    float: left;
+    width: 50%;
+    /*background: #fff;*/
+    height: 100%;
+}
+
+.dine-wine {
+    width: calc(50% - 20px);
+    margin-left: 20px;
+    background: #fff;
+    float: left;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    background-color: #fff !important;
+    opacity: 1;
+}
+
+
+

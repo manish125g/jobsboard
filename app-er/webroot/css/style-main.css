@@ -1,0 +1,21 @@
+.main-responsive-tab {
+    display: block;
+    min-height: 66px;
+    background: skyblue;
+    padding: 8px;
+}
+
+.main-responsive-tab ul li {
+    float: left;
+    display: block;
+    position: relative;
+}
+
+.main-responsive-tab ul li a{
+    color: black;
+    font-family: 'lucida grande', verdana, helvetica, arial, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+}
+

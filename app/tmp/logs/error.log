@@ -1,0 +1,2926 @@
+2017-10-02 15:17:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 15:17:23 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 15:17:41 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 15:17:41 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 15:18:25 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 15:18:26 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 15:22:52 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 15:22:52 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:02:24 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:02:24 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:07:27 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:07:27 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:07:29 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/img/map-marker.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:09:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:09:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:09:34 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/img/map-marker.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:10:39 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:10:39 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:10:43 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:10:43 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:10:44 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/img/map-marker.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:11:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:11:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:11:20 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/img/map-marker.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:11:44 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:11:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:11:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/img/map-marker.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:52:49 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:52:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:52:51 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/img/map-marker.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:54:24 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 20:54:24 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:01:54 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:01:54 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:03:19 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:03:19 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:03:36 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:03:37 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:03:43 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:03:44 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:04:15 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:04:15 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:04:21 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:04:21 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:04:40 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:04:40 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:05:04 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:05:04 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:05:46 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:05:46 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:06:07 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:06:07 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:06:13 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:06:14 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:06:29 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:06:29 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:15:25 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:15:26 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:21:56 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:21:56 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:22:05 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:22:06 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:22:21 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:22:21 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:24:21 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:24:21 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:24:24 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img1.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:24:24 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img2.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:24:24 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img1.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:24:24 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img3.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:24:24 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img2.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:24:24 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img3.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:24:25 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img4.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:24:25 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img5.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:24:25 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:24:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:24:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:24:26 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/favicon.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:24:34 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:24:34 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:24:54 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:24:54 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:28:26 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:28:27 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:40:49 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:40:49 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:42:11 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:42:11 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:42:15 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:42:16 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:42:18 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:42:19 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:42:27 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:42:27 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:43:15 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:43:15 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:43:19 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:43:20 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:43:24 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:43:24 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:44:00 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:44:00 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:44:18 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:44:18 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:45:15 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:45:15 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:45:19 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img1.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:20 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img2.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:20 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img3.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:20 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img4.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:20 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img1.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:20 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img2.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:20 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img3.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:20 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img5.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:21 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:45:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:45:29 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img1.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:29 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img2.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:30 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img3.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:30 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img2.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:30 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img1.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:30 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img5.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:30 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img4.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:30 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img3.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:45:31 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:45:36 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:45:37 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:45:37 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:46:25 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:46:26 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:46:28 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:46:28 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:46:43 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img1.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:46:43 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img2.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:46:43 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img3.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:46:44 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img2.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:46:44 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img3.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:46:44 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img4.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:46:44 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img1.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:46:44 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:46:44 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img5.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:46:44 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:46:44 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:49:28 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img1.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:49:28 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img2.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:49:28 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img3.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:49:28 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img2.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:49:28 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img4.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:49:28 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img3.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:49:28 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img1.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:49:28 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:49:28 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img5.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:49:28 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:49:29 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:49:42 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:49:42 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:49:42 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:50:23 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img1.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:50:23 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img2.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:50:24 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img3.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:50:24 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img1.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:50:24 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img3.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:50:24 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img4.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:50:24 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img2.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:50:24 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:50:24 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img5.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:50:24 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:50:24 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:50:32 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:50:35 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:50:35 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:50:39 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:50:39 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:50:58 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:50:59 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:51:03 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:51:03 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:51:07 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:51:07 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:52:47 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:52:47 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:53:25 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:53:25 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:56:06 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:56:06 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:56:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:56:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:57:07 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:57:07 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:57:10 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:57:11 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:57:14 Error: [MissingActionException] Action JobsController::fonts() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'fonts',
+)
+Request URL: /jobs/admin/jobs/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:57:14 Error: [MissingActionException] Action JobsController::fonts() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'fonts',
+)
+Request URL: /jobs/admin/jobs/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:57:36 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img1.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:57:37 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img2.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:57:37 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img3.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:57:37 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:57:37 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img1.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:57:37 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img3.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:57:37 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img2.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:57:37 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img5.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:57:37 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img4.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:57:38 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:57:38 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 21:58:35 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img1.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:58:36 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img2.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:58:36 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img1.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:58:36 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img3.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:58:36 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img3.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:58:36 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img5.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:58:36 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img4.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:58:36 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img2.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 21:58:36 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:00:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:00:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:01:00 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img1.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:00 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:01:00 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img3.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:00 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img1.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:00 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img2.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:00 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img3.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:00 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img4.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:00 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img5.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:01 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:01:01 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:58 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img1.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:58 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img2.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:59 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img1.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:59 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img2.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:59 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img3.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:59 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img3.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:59 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img4.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:59 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img5.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:59 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:01:59 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:01:59 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:03:29 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img1.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:29 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img3.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:29 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img2.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:29 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img4.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:29 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img2.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:29 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:30 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img2.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:30 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img3.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:30 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img1.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:30 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/testimonial/img3.jpg
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:30 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img5.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:30 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img4.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:30 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:30 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:03:30 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:03:38 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img4.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:38 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/Homes/assets/img/clients/img6.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:03:45 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:03:45 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:03:48 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:03:48 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:05:39 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:05:39 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:06:24 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:06:24 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:08:30 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:08:30 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:09:36 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:09:36 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:12:03 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:12:03 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => 'Admin',
+)
+Request URL: /jobs/admin/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:18:52 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:18:54 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:18:58 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:18:58 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:18:58 Error: [MissingActionException] Action HomesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'HomesController',
+  'action' => 'assets',
+)
+Request URL: /jobs/homes/assets/img/favicon.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomesController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:19:39 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:19:39 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:20:00 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:20:00 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:21:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:21:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:21:41 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:21:41 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:22:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:22:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:22:43 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:22:43 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:23:15 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:23:15 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:23:27 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:23:27 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:34:39 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:34:39 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:35:54 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:35:54 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:36:39 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/css/bootstrap.min.css.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:36:39 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /jobs/assets/js/bootstrap-select.js.map
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 22:46:23 Error: [MissingActionException] Action JobsController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'assets',
+)
+Request URL: /jobs/jobs/assets/img/favicon.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-10-02 22:46:36 Error: [NotFoundException] Invalid Link
+Request URL: /jobs/jobs/job_detail/assets/img/favicon.png
+Stack Trace:
+#0 [internal function]: JobsController->job_detail('assets', 'img', 'favicon.png')
+#1 D:\xampp\htdocs\jobs\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(JobsController), Array)
+#2 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#4 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-10-02 22:47:19 Error: [MissingActionException] Action AdvertisementsController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AdvertisementsController',
+  'action' => 'assets',
+)
+Request URL: /jobs/advertisements/assets/img/favicon.png
+Stack Trace:
+#0 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdvertisementsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\jobs\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}

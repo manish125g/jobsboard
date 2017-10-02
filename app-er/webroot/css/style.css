@@ -1,0 +1,155 @@
+html, body{
+	height: 100%;
+	width: 100%;
+padding-bottom: 30px;
+    background: skyblue;
+}
+@media (min-width: 768px) {
+    .navbar-nav > li {
+        float: left;
+        border-right: 2px blue solid !important;
+    }
+}
+.navbar-default .navbar-nav>li>a :hover {
+    color: black;
+}
+.sb-page {
+	width: 80%;
+	height: 100%;
+	margin: 0 auto;
+	padding: 20px;
+}
+.sb-navbar {
+	background: cyan;
+}
+.navbar-default {
+    background-color: #fff;
+    border-color: #e7e7e7;
+}
+.navbar-default .navbar-nav>li>a{
+    color: black;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: blue!important;
+    background-color: transparent;
+}
+/*.navbar-default ul >li{
+    padding: 12px 0 0 0;
+}
+.navbar-default .navbar-nav>li>a{
+	border-right: 2px solid blue;
+    font-weight: bold;
+}
+.navbar-nav>li>a{
+	padding-top: 0px;
+    padding-bottom: 0px;
+}*/
+
+
+header,
+section,
+aside,
+footer {
+ /*  margin: 0 1.5% 24px 1.5%; */
+}
+section {
+  float: left;
+  width: 100%;
+}
+aside {
+  float: right;
+  width: 30%;
+}
+code {
+  background: #2db34a;
+  border-radius: 6px;
+  color: #fff;
+  display: block;
+  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+  padding: 24px 15px;
+  text-align: center;
+}
+
+.wrapper{
+	width: 100%;
+    height: 100%;
+}
+
+.left-wrapper{
+	float: left;
+    width: 80%;
+}
+.ads-and-news-section{
+	height: 200px;
+	margin-bottom: 20px;
+}
+.upcoming-events{
+	height: 100px;
+	background: #fff;
+	text-align: center;
+}
+.right-wrapper{
+	float: left;
+    width: calc(20% - 20px);
+    height: 320px;
+    background: cyan;
+    margin-left: 20px;
+}
+.sb-page .paid-ads{
+	width: 20%;
+    float: left;
+    background: #fff;
+    height: 100%;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.sb-page .hot{
+	width: calc(80% - 20px);
+    float: right;
+    text-align: center;
+    height: 100%;
+}
+.sb-page .hot .hot-news {
+	height: calc(50% - 20px);
+    background: #fff;
+    margin-bottom: 20px;
+}
+
+.sb-page .hot .hot-jobs {
+	height: 50%;
+    background: #fff;
+}
+.hot-news,
+.hot .hot-jobs,
+.upcoming-events
+{
+	border-radius: 10px;
+} 
+.paid-ads .quik-link, .hot{
+	height: 200px;
+}
+.paid-ads-sliding{
+	height: 100px;
+    /*background: cyan;*/
+    margin-top: 20px;
+}
+.market-place{
+	border-radius: 10px;
+	float: left;
+	width: 50%;
+	/*background: #fff;*/
+	height: 100%;
+}
+.dine-wine{
+	width: calc(50% - 20px);
+    margin-left: 20px;
+    background: #fff;
+    float: left;
+    height: 100%;
+    border-radius: 10px;
+}
+
+
+
+
