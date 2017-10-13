@@ -79,7 +79,5 @@
 <?php echo $this->Html->script("/assets/js/jquery.themepunch.tools.min.js"); ?>
 <?php include('register.ctp');?>
 <?php include('login.ctp');?>
-
-
 </body>
 </html>

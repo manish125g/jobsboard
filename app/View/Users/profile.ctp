@@ -11,8 +11,7 @@
         width: auto;
     }
 </style>
-</section>
-</div>
+
 <div class="col-md-12 col-sm-12" style="background: #fff;padding: 10px">
     <div class="col-md-4">
         <?php $url = array("controller" =>"users", "action" =>"profile", 'plugin' => null);

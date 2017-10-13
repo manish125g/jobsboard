@@ -1,3 +1,5 @@
+</section>
+</div>
 <div class="">
     <?php
     if ((isset($job) && !empty($job))) {
@@ -33,9 +35,20 @@
                         <i class="fa fa-facebook-official"></i> Share on Facebook
                     </a>
                 </p>
-                <p class="text-right" style="margin: 10px 15px;">
-                    Job Type : <b><?= $job['Job']['job_type'] ?></b>
-                </p>
+                <div class="row" style="margin: 10px 15px;">
+                    <div class="col-xs-6">
+                        <?= $this->Html->link("Apply Now", array(
+                            'controller' => 'job_seekers',
+                            'action' => 'apply_job', $job['Job']['id']),
+                            array('class'=>'btn btn-common btn-rm')); ?>
+                    </div>
+                    <div class="col-xs-6">
+                        <p class="text-right">
+                            Job Type : <b><?= $job['Job']['job_type'] ?></b>
+                        </p>
+                    </div>
+                </div>
+
             </div>
         </div>
         <?php
@@ -48,7 +61,7 @@
     }
     ?>
     <div class="col-md-3 col-xs-12">
-        
+
     </div>
     <div class="clearfix"></div>
 </div>
