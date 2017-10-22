@@ -73,8 +73,8 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'root',
-		'password' => '',
-		'database' => 'shivak_jobs',
+		'password' => 'root',
+		'database' => 'shivak_db',
 		'prefix' => '',
 		//'encoding' => 'utf8',
 	);
